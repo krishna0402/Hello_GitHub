@@ -1,0 +1,2 @@
+Hi this file has been included from SVN 
+ready to test
